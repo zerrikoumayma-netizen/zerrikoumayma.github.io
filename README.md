@@ -148,7 +148,7 @@ Le projet couvre l'ensemble du cycle de vie ML : training, évaluation, déploie
 
 | Diplôme | Établissement | Spécialité |
 |---------|--------------|------------|
-| Microsoft Azure AZ-900 | Microsoft Azure | Fondamentaux du cloud Azure |
+| Microsoft Azure AZ-900 | Union IT Service | Fondamentaux du cloud Azure |
 | Formation | Union IT Service | Virtualisation des serveurs avec vSphere VMware |
 | Master | ENSAM Mohammédia | Big Data & Internet des Objets |
 | DEUST | FSTM · UNH2 | Informatique & Mathématiques appliquées |
