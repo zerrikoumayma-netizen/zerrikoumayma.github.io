@@ -19,8 +19,6 @@ Portfolio personnel de **Zerrik Oumayma**, étudiante en **Master Big Data et In
 
 Ce portfolio présente mon parcours, mes compétences techniques et mes projets académiques couvrant les domaines de la **Data Science**, du **Machine Learning**, du **Big Data** et du **développement Full Stack**.
 
-> 🚀 **Disponible pour un stage de fin d'études (PFA)**
-
 ---
 
 ## 🗂️ Projets
@@ -130,9 +128,19 @@ Le projet couvre l'ensemble du cycle de vie ML : training, évaluation, déploie
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-607078?style=flat&logo=vmware&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 💼 Expérience
+
+| Poste | Organisme | Missions principales |
+|-------|-----------|----------------------|
+| Stage — Virtualisation des serveurs avec vSphere VMware | Union IT Service | Configuration, administration et suivi d'environnements virtualisés avec VMware vSphere |
 
 ---
 
@@ -140,6 +148,8 @@ Le projet couvre l'ensemble du cycle de vie ML : training, évaluation, déploie
 
 | Diplôme | Établissement | Spécialité |
 |---------|--------------|------------|
+| Microsoft Azure AZ-900 | Microsoft Azure | Fondamentaux du cloud Azure |
+| Formation | Union IT Service | Virtualisation des serveurs avec vSphere VMware |
 | Master | ENSAM Mohammédia | Big Data & Internet des Objets |
 | DEUST | FSTM · UNH2 | Informatique & Mathématiques appliquées |
 | Licence | FSTM · UNH2 | Sciences des Données & Informatique Décisionnelle |
